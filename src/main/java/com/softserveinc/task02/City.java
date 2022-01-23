@@ -1,10 +1,10 @@
 package com.softserveinc.task02;
 
 public class City {
-  String name;
-  String region;
-  String country;
-  int inhabitants;
+  private String name;
+  private String region;
+  private String country;
+  private int inhabitants;
 
   public City() {
   }
